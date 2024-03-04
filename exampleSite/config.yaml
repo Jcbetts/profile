@@ -123,8 +123,8 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "Hi, my name is"
-    title: "Justin."
+    intro: "Salutations, hello, and welcome to my information page!"
+    title: "My name is Justin"
     subtitle: "I like to think about people"
     content: "A seasoned social servant, I use economics and data science to advocate positive social change."
     image: /images/hero.svg
